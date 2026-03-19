@@ -1,104 +1,110 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hey 👋, I'm Aaditya Bansal</h1>
-<h3 align="center">CSE Student | Tech Enthusiast | Problem Solver | Builder 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Create.+Collaborate.;C+%7C+C%2B%2B+%7C+Web+Development;DSA+in+Progress;Turning+Ideas+into+Impact!" />
-</p>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aaditya%20Bansal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=a0aec0" />
 
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+%E2%80%94+3rd+Year;Full-Stack+%7C+DSA+%7C+Problem+Solving;Building+Real+Solutions+for+Real+Problems;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityabansal111/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeBreaker_0111/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadityabansal25)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadityabansal_111/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityabansal17102005@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **3rd Year CSE Student**
-- 💡 Strong interest in **Problem Solving & Core CS**
-- 🌱 Currently focused on **Data Structures & Algorithms**
-- 🌐 Frontend developer with **HTML, CSS & JavaScript**
-- 🚀 Building solutions for **real student problems**
-- 🤝 Active in **hackathons, tech clubs & community events**
-- ⚡ Believer of: *“Bakchodi with logic hits different”* 😄
+I'm a **3rd-year Computer Science & Engineering student** at SKIT Jaipur with a strong foundation in problem solving, frontend development, and building products that solve real-world problems.
+
+- 🎯 Currently grinding **DSA** and **competitive programming**
+- 🔭 Working on **LUMORA** — a smart AI-powered resume analyzer
+- 🛰️ Completed an internship in **Space Technology** — CanSat, Rocketry, Drone Tech & GIS
+- 🏅 Selected for **Rising Rajasthan 2024** & **Pravasi Rajasthan Diwas 2025**
+- 🤝 Coordinator, **Science & Technology Club** | Campus Ambassador — IIT Delhi & MNIT Jaipur
+- 💬 Ask me about **C/C++, Web Dev, DSA, or building side projects from scratch**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,mongodb,express,git,github,vscode,python" />
 </p>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 📚 Currently Learning
-- 📌 Data Structures & Algorithms  
-- 📌 Competitive Programming basics  
-- 📌 Writing efficient & clean code  
-
----
-
-## 🚀 Projects & Initiatives
-
-### 🔹 StuddyBuddy Connect  
-> *Unleashing the Power of Study Group Coordination*
-
-- 🤖 Smart study-group formation system  
-- 📊 Daily progress tracking with streaks & reports  
-- 🏆 Motivation through badges and achievements  
-- 👥 Community-driven learning ecosystem  
-- 🌱 Designed especially for introverts & focused learners  
-- 🎯 Aims to make studying more effective, collaborative, and enjoyable  
+| Domain | Technologies |
+|---|---|
+| **Languages** | C, C++, JavaScript |
+| **Frontend** | HTML, CSS, React.js |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Tools & Platforms** | Git, GitHub, VS Code |
+| **Learning** | DSA, Competitive Programming, OpenAI APIs |
 
 ---
 
-### 🌦️ WeatherWise  
-> *Real-time Weather Forecast Application*
+## 🚀 Featured Projects
 
-WeatherWise is a simple yet powerful **weather forecast web app** built using **HTML, CSS, and JavaScript**.  
-It provides **real-time weather updates and forecasts** for locations worldwide, helping users stay informed about changing weather conditions.
+### 🔮 LUMORA — *Know Your Resume Before Recruiters Do*
+> Smart AI-powered resume analyzer | Final Year Project
 
-**Key Highlights:**
-- 🌍 Search weather for any location globally  
-- ⏱️ Real-time weather data  
-- 🎨 Clean and responsive UI  
-- ⚡ Fast and lightweight frontend application  
+An intelligent web platform that bridges the gap between candidates and recruiters through data-driven resume insights.
 
----
+- 📊 **ATS Scoring** — Resume structure & keyword analysis
+- 🎯 **JD Matching** — % compatibility with job descriptions + missing skill gaps
+- 🐙 **GitHub Integration** — Analyzes your GitHub profile alongside your resume
+- 🤖 **AI Suggestions** — GPT-powered personalized improvement recommendations
 
-### 🚌 Wefly-Bus  
-> *Online Bus Ticket Booking Website*
-
-Wefly-Bus is a **responsive and user-friendly bus booking website** designed to simulate an online ticket booking experience.  
-The project demonstrates strong frontend fundamentals using **HTML, CSS, and JavaScript**.
-
-**Key Highlights:**
-- 🖥️ Responsive design for all screen sizes  
-- 🎫 User-friendly ticket booking interface  
-- 🧭 Simple and intuitive navigation  
-- 🛠️ Focus on frontend structure & usability  
+**Stack:** React.js · Node.js · Express · MongoDB · OpenAI API · GitHub API
 
 ---
 
+### 🤝 StuddyBuddy Connect — *Smarter Group Study, Not Harder*
+> AI-powered study group coordination platform
+
+- Smart study-group formation based on goals & availability
+- Progress tracking with streaks, badges & leaderboard gamification
+- Virtual study rooms + e-library integration
+- Built for introverts and focused learners
+
 ---
 
-## 🏆 Achievements & Recognition
-
-🏅 **Selected in Rising Rajasthan 2024**  
-🏅 **Selected in Pravasi Rajasthan Diwas 2025**  
-🎤 Active participant in **hackathons & tech events**  
-🤝 Leadership experience as **Club Coordinator & Campus Ambassador**
+### 🌦️ WeatherWise — *Real-Time Forecast App*
+A responsive weather forecast app with real-time data, global search, and a clean lightweight UI.
+**Stack:** HTML · CSS · JavaScript · Weather API
 
 ---
 
-## 💻 LeetCode Journey
+### 🚌 Wefly-Bus — *Bus Ticket Booking Interface*
+A responsive, user-friendly bus booking simulation with intuitive navigation and clean frontend design.
+**Stack:** HTML · CSS · JavaScript
+
+---
+
+## 🏆 Achievements
+
+| Award / Role | Year |
+|---|---|
+| 🛰️ Space Technology Internship (CanSat, Rocketry, GIS) | 2024 |
+| 🏅 Selected — Rising Rajasthan | 2024 |
+| 🏅 Selected — Pravasi Rajasthan Diwas | 2025 |
+| 🎤 Organizer — CodeFormers Coding Competition | 2024 |
+| 🤝 Campus Ambassador — Rendezvous (IIT Delhi) | 2024 |
+| 🤝 Campus Ambassador — SPHINX (MNIT Jaipur) | 2024 |
+| 🏆 Hackathons — MUJHACKX 2.0, Code4Cause | 2024 |
+
+---
+
+## 📊 LeetCode Progress
 
 <p align="center">
   <a href="https://leetcode.com/u/CodeBreaker_0111/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/CodeBreaker_0111?theme=dark&font=Fira%20Code&ext=contest" />
-    
+    <img src="https://leetcard.jacoblin.cool/CodeBreaker_0111?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -107,34 +113,29 @@ The project demonstrates strong frontend fundamentals using **HTML, CSS, and Jav
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-CodeBreaker--0111-black?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeBreaker-0111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBreaker-0111&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-C%20%7C%20C%2B%2B%20%7C%20Web-blueviolet?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBreaker-0111&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-In%20Progress-orange?style=for-the-badge" />
-</p>
-
-
-
-
-
-## 📫 Connect With Me  
-
-- 📧 Email: **aadityabansal17102005@gmail.com**  
-- 💼 LinkedIn: [Let's Connect](https://www.linkedin.com/in/aadityabansal111/)  
-- 🌍 Instagram: [Aaditya Bansal](https://www.instagram.com/aadityabansal_111/)
--  𝕏   Twitter: [Let's Tweet](https://x.com/aadityabansal25)
-
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
-</p>
+## 📫 Let's Connect
 
-⭐ *If you like my work, feel free to star my repositories and connect with me!*  
+I'm actively looking for **Summer Internship / Training opportunities** in software development, full-stack, or product engineering. Let's build something great together.
+
+📧 **aadityabansal17102005@gmail.com**
+💼 [LinkedIn — Aaditya Bansal](https://www.linkedin.com/in/aadityabansal111/)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*⭐ If something resonates, drop a star — it means a lot!*
+
+</div>
