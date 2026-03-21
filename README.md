@@ -34,7 +34,8 @@ I'm a **3rd-year Computer Science & Engineering student** at SKIT Jaipur with a 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,mongodb,express,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,github,vscode,python" />
+  <!-- react,nodejs,mongodb,express, -->
 </p>
 
 | Domain | Technologies |
