@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityabansal111/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeBreaker_0111/)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeBreaker_0111/)-->
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadityabansal25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadityabansal_111/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityabansal17102005@gmail.com)
@@ -101,13 +101,13 @@ A responsive, user-friendly bus booking simulation with intuitive navigation and
 
 ---
 
-## 📊 LeetCode Progress
+<!-- ## 📊 LeetCode Progress
 
 <p align="center">
   <a href="https://leetcode.com/u/CodeBreaker_0111/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/CodeBreaker_0111?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
   </a>
-</p>
+</p>-->
 
 ---
 
