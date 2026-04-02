@@ -53,7 +53,7 @@ I'm a **3rd-year Computer Science & Engineering student** at SKIT Jaipur with a 
 
 ## 🚀 Featured Projects
 
-### 🔮 LUMORA — *Know Your Resume Before Recruiters Do*
+<!--### 🔮 LUMORA — *Know Your Resume Before Recruiters Do*
 > Smart AI-powered resume analyzer | Final Year Project
 
 An intelligent web platform that bridges the gap between candidates and recruiters through data-driven resume insights.
@@ -64,7 +64,7 @@ An intelligent web platform that bridges the gap between candidates and recruite
 - 🤖 **AI Suggestions** — GPT-powered personalized improvement recommendations
 
 **Stack:** React.js · Node.js · Express · MongoDB · OpenAI API · GitHub API
-
+-->
 ---
 
 ### 🤝 StuddyBuddy Connect — *Smarter Group Study, Not Harder*
