@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aaditya%20Bansal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=a0aec0" />
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+%E2%80%94+3rd+Year;Full-Stack+%7C+DSA+%7C+Problem+Solving;Building+Real+Solutions+for+Real+Problems;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" />
 
 <br/>
@@ -13,23 +11,18 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aadityabansal25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadityabansal_111/)
 
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeBreaker_0111/)-->
-
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **3rd-year Computer Science & Engineering student** at SKIT Jaipur with a strong foundation in problem solving, frontend development, and building products that solve real-world problems.
+**3rd-year CSE student** at SKIT Jaipur — building products that solve real problems.
 
-- 🎯 Currently grinding **DSA** and **competitive programming**
-- 🔭 Working on **LUMORA** — a smart AI-powered resume analyzer
-- 🛰️ Completed an internship in **Space Technology** — CanSat, Rocketry, Drone Tech & GIS
-- 🏅 Selected for **Rising Rajasthan 2024** & **Pravasi Rajasthan Diwas 2025**
-- 🤝 Coordinator, **Science & Technology Club** | Campus Ambassador — IIT Delhi & MNIT Jaipur
-- 💬 Ask me about **C/C++, Web Dev, DSA, or building side projects from scratch**
+- 🎯 Grinding **DSA** and competitive programming
+- 🛰️ Interned in **Space Technology** — CanSat, Rocketry, Drone Tech & GIS
+- 🤝 Management & PR Head, **S&T Club** | Campus Ambassador — IIT Delhi & MNIT Jaipur
+- 💬 Ask me about **C/C++, Web Dev, DSA, or building side projects**
 
 ---
 
@@ -37,79 +30,31 @@ I'm a **3rd-year Computer Science & Engineering student** at SKIT Jaipur with a 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,git,github,vscode,python" />
-  <!-- react,nodejs,mongodb,express, -->
 </p>
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | C, C++, JavaScript |
-| **Frontend** | HTML, CSS, React.js |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Tools & Platforms** | Git, GitHub, VS Code |
-| **Learning** | DSA, Competitive Programming, OpenAI APIs |
+**Languages:** C, C++, JavaScript &nbsp;|&nbsp; **Frontend:** HTML, CSS &nbsp;|&nbsp; **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<!--### 🔮 LUMORA — *Know Your Resume Before Recruiters Do*
-> Smart AI-powered resume analyzer | Final Year Project
+**🛡️ FraudShield** — AI-powered fraud detection platform with real-time anomaly detection, risk scoring dashboard & payment gateway API integration. `JavaScript · Python · ML`
 
-An intelligent web platform that bridges the gap between candidates and recruiters through data-driven resume insights.
+**🗺️ NagarSeva** *(In Progress)* — GIS-based civic issue reporting platform for smart cities. Location-aware reporting, map integration & real-time status tracking. `JavaScript · GIS`
 
-- 📊 **ATS Scoring** — Resume structure & keyword analysis
-- 🎯 **JD Matching** — % compatibility with job descriptions + missing skill gaps
-- 🐙 **GitHub Integration** — Analyzes your GitHub profile alongside your resume
-- 🤖 **AI Suggestions** — GPT-powered personalized improvement recommendations
+**🤝 StuddyBuddy Connect** — AI-powered study group coordination with smart matching, progress streaks & virtual study rooms. `JavaScript · HTML · CSS`
 
-**Stack:** React.js · Node.js · Express · MongoDB · OpenAI API · GitHub API
--->
----
-
-### 🤝 StuddyBuddy Connect — *Smarter Group Study, Not Harder*
-> AI-powered study group coordination platform
-
-- Smart study-group formation based on goals & availability
-- Progress tracking with streaks, badges & leaderboard gamification
-- Virtual study rooms + e-library integration
-- Built for introverts and focused learners
+**🌦️ WeatherWise** — Responsive real-time weather app with global search & clean UI. `HTML · CSS · JavaScript`
 
 ---
 
-### 🌦️ WeatherWise — *Real-Time Forecast App*
-A responsive weather forecast app with real-time data, global search, and a clean lightweight UI.
-**Stack:** HTML · CSS · JavaScript · Weather API
+## 🏆 Highlights
 
----
-
-### 🚌 Wefly-Bus — *Bus Ticket Booking Interface*
-A responsive, user-friendly bus booking simulation with intuitive navigation and clean frontend design.
-**Stack:** HTML · CSS · JavaScript
-
----
-
-## 🏆 Achievements
-
-| Award / Role | Year |
-|---|---|
-| 🛰️ Space Technology Internship (CanSat, Rocketry, GIS) | 2024 |
-| 🏅 Selected — Rising Rajasthan | 2024 |
-| 🏅 Selected — Pravasi Rajasthan Diwas | 2025 |
-| 🎤 Organizer — CodeFormers Coding Competition | 2024 |
-| 🤝 Campus Ambassador — Rendezvous (IIT Delhi) | 2024 |
-| 🤝 Campus Ambassador — SPHINX (MNIT Jaipur) | 2024 |
-| 🏆 Hackathons — MUJHACKX 2.0, Code4Cause | 2024 |
-
----
-
-<!-- ## 📊 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/u/CodeBreaker_0111/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/CodeBreaker_0111?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>-->
+- 🎤 Official Coordinator — **SIH 2025 Grand Finale** @ SKIT
+- 🤝 Campus Ambassador — **Rendezvous, IIT Delhi** (Rank 14 / 10,000+)
+- 🤝 Campus Ambassador — **SPHINX, MNIT Jaipur**
+- 🛰️ Space Technology Internship — CanSat, Rocketry, GIS (2024)
+- 🏆 Hackathons — MUJHACKX 2.0, Code4Cause
 
 ---
 
@@ -126,16 +71,11 @@ A responsive, user-friendly bus booking simulation with intuitive navigation and
 
 ---
 
-## 📫 Let's Connect
-
-I'm actively looking for **Summer Internship / Training opportunities** in software development, full-stack, or product engineering. Let's build something great together.
-
-📧 **aadityabansal17102005@gmail.com**
-💼 [LinkedIn — Aaditya Bansal](https://www.linkedin.com/in/aadityabansal111/)
-
----
-
 <div align="center">
+
+Actively looking for **Summer Internship** opportunities in software development & product engineering.
+
+📧 aadityabansal17102005@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/aadityabansal111/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
