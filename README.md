@@ -21,7 +21,7 @@
 
 - 🎯 Grinding **DSA** and competitive programming
 - 🛰️ Interned in **Space Technology** — CanSat, Rocketry, Drone Tech & GIS
-- 🤝 Management & PR Head, **S&T Club** | Campus Ambassador — IIT Delhi & MNIT Jaipur
+- 🤝 Management & PR Head, **S&T Club**
 - 💬 Ask me about **C/C++, Web Dev, DSA, or building side projects**
 
 ---
@@ -54,7 +54,7 @@
 - 🤝 Campus Ambassador — **Rendezvous, IIT Delhi** (Rank 14 / 10,000+)
 - 🤝 Campus Ambassador — **SPHINX, MNIT Jaipur**
 - 🛰️ Space Technology Internship — CanSat, Rocketry, GIS (2024)
-- 🏆 Hackathons — MUJHACKX 2.0, Code4Cause
+- 🏆 Hackathons — SIH, LNMHACKS, MUJHACKX 2.0, Code4Cause
 
 ---
 
