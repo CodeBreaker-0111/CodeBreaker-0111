@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aaditya%20Bansal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=a0aec0" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+%E2%80%94+3rd+Year;Full-Stack+%7C+DSA+%7C+Problem+Solving;Building+Real+Solutions+for+Real+Problems;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+%E2%80%94;Full-Stack+%7C+DSA+%7C+Problem+Solving;Building+Real+Solutions+for+Real+Problems;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 ## 🧑‍💻 About Me
 
-**3rd-year CSE student** at SKIT Jaipur — building products that solve real problems.
+**CSE student** at SKIT Jaipur — building products that solve real problems.
 
 - 🎯 Grinding **DSA** and competitive programming
 - 🛰️ Interned in **Space Technology** — CanSat, Rocketry, Drone Tech & GIS
-- 🤝 Management & PR Head, **S&T Club**
+- 🤝 Mentor, **S&T Club**
 - 💬 Ask me about **C/C++, Web Dev, DSA, or building side projects**
 
 ---
