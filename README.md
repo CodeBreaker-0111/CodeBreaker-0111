@@ -1,8 +1,7 @@
 <div align="center">
-
-# Aaditya Bansal
-
-### Building Intelligent Solutions with AI & Code
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aaditya%20Bansal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=a0aec0">
+  
+# Building Intelligent Solutions with AI & Code
 
 Software Developer • AI Enthusiast • Problem Solver
 
